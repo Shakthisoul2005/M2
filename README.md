@@ -48,7 +48,7 @@ int main()
 
 
 ## RESULT:
-Thus the program to print even numbers ranging from M to N (including M and N values) has been executed successfully
+Thus the program has been executed successfully
  
  
 
@@ -97,7 +97,7 @@ int main()
 
 ## RESULT:
 
-Thus the program to print the given triangular pattern using loop has been executed successfully
+Thus the program has been executed successfully
  
  
 
@@ -149,7 +149,7 @@ int main()
 
 ## RESULT:
 
-Thus the program to perform addition and subtraction of two numbers using functions has been executed successfully
+Thus the program  has been executed successfully
  
  
 
@@ -193,7 +193,7 @@ int main()
 
 ## RESULT:
 
-Thus the program to find the sum of odd digits using for loop has been executed successfully.
+Thus the program  has been executed successfully.
 
 
 
@@ -232,5 +232,5 @@ int main() {
 ![Screenshot 2025-04-29 181521](https://github.com/user-attachments/assets/feffdb62-f54a-4af6-aab8-de9ad6c10f3d)
 
 ## RESULT:
-The program correctly computes the factorial of a given number using a separate function and displays the result.
+The program has been executed successfully
  
