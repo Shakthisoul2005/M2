@@ -6,7 +6,7 @@ Write a c program to find the sum of even digits using while loop
 ```
 1.Start
 2.Declare variables: num, digit, and sum = 0
-3.Read the number from the user
+3.Read the number from the user 
 4.Repeat while num > 0:
   *Extract last digit using digit = num % 10
   *If digit % 2 == 0, add it to sum
